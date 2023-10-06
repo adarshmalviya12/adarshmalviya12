@@ -1,3 +1,4 @@
+[![An image of @adarshmalviya12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adarshmalviya12)](https://holopin.io/@adarshmalviya12)
 <h1 align="center">Hi 👋, I'm Adarsh Devendra Malviya</h1>
 <h3 align="center">Innovative and observant full-stack developer with a
 specialization in MERN Stack. Eager to learn new tech skills.
